@@ -1,0 +1,3 @@
+include ':MingLib'
+include ':app'
+rootProject.name = "Applib"
